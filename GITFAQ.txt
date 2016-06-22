@@ -1,0 +1,16 @@
+FAQ's
+	- Windows: I forgot where I created my repo, how do I find it?
+		○ There is a hidden .git directory
+		○ On Windows, go to start and type in git
+		○ Under files you will see the ".git" library
+		○ Click on it and it should open to your repo location
+	- What is the status of my git repository?
+		$ git status
+		On branch master
+		Initial commit
+		nothing to commit (create/copy files and use "git add" to track)
+		kadasani@SEA-1850016271 MINGW64 /c/My Projects/Coursera/DSTK_Course (master)
+	- What is in the config files?
+		○ git config --global --list
+		○ git config --system --list
+		○ git config --local --list (only works in the local repo directory)
