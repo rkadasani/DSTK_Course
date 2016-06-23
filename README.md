@@ -28,11 +28,36 @@
 	**git add <filename>
 	**git commit
 * How do I sync the local repo with the remote repo?
+	After a commit do a push
 	
 * How do i get both local and remote repo synched up?
+	After a commit, do a push. Do a pull or a checkout
 
 * How do I know if there are any outstanding changes in my repo?
 	**$git status
+* How do i see what changes were made in my repo?
+	$ git log
+		commit c9d7752ebc5de7f33c4a2bf0b40d2073bba4adb5
+		Author: rkadasani <reddy.kadasani@gmail.com>
+		Date:   Wed Jun 22 21:59:10 2016 -0700
+		FAQs from GIT tutorial and R package module
+
+		commit 023e3c495a821bf35d34ca738d92b081232eb776
+		Merge: 1c217b4 67ca75d
+		Author: rkadasani <reddy.kadasani@gmail.com>
+		Date:   Tue Jun 21 18:43:53 2016 -0700
+		Merge https://github.com/rkadasani/DSTK_Course
+
+		commit 1c217b45fc95c05c40fde2005fdb1730f5d04c87
+		Author: rkadasani <reddy.kadasani@gmail.com>
+		Date:   Tue Jun 21 18:21:26 2016 -0700
+		My first commit
+
+		commit 67ca75dddb5b3a6bc529e388eb3a13e7d5f850c4
+		Author: rkadasani <reddy.kadasani@gmail.com>
+		Date:   Sun Jun 12 12:37:40 2016 -0700
+		Initial commit
+
 	
 ###Installing R Packages
 * Why do I need R Packages?
