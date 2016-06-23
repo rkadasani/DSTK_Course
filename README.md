@@ -4,24 +4,24 @@
 
 ###General
 
-*What is a good git tutorial?
+* What is a good git tutorial?
 
  there are a number of git resources. but the gitimmersion.com provides a pretty good tutorial for deep dive learning
  
-*what is markdown?
+* What is markdown?
 
  "Markdown" is two things: (1) a plain text formatting syntax; and (2) a software tool, written in Perl, that converts the plain text formatting to HTML.
   [Reference]: http://daringfireball.net/projects/markdown/
 
 ###GIT commands
-*Windows: I forgot where I created my repo, how do I find it?
+* Windows: I forgot where I created my repo, how do I find it?
 
-	**There is a hidden .git directory
-	**On Windows, go to start and type in git
-	**Under files you will see the ".git" library
-	**Click on it and it should open to your repo location
+	There is a hidden .git directory
+	On Windows, go to start and type in git
+	Under files you will see the ".git" library
+	Click on it and it should open to your repo location
 	
-*What is the status of my git repository?
+* What is the status of my git repository?
 
 	$ git status
 	
@@ -30,17 +30,17 @@
 		nothing to commit (create/copy files and use "git add" to track)
 		kadasani@SEA-1850016271 MINGW64 /c/My Projects/Coursera/DSTK_Course (master)
 		
-*What is in the config files?
+* What is in the config files?
 
-	**git config --global --list
-	**git config --system --list
-	**git config --local --list (only works in the local repo directory)
+	$git config --global --list
+	$git config --system --list
+	$git config --local --list (only works in the local repo directory)
 	
 * How do I add new files to source control?
 
 	open gitbash, browse to your repo directory
-	**git add <filename>
-	**git commit
+	$git add <filename>
+	$git commit
 	
 * How do I sync the local repo with the remote repo?
 
