@@ -98,11 +98,11 @@
 	
 * How can I install an R package?
 
-	You can use R Studio Tools menu to isntall packages or run the install.packages function in R. 
-	
+	You can use R Studio Tools menu to isntall packages or run the install.packages function in R. 	
 	Usage:
 	install.packages(c("slidfy", "devtools" )).
-	You have to use the library(<library name>) function to load the library that is installed. Use search() to list the functions in the library that was loaded.
+	You have to use the library(<library name>) function to load the library that is installed. 
+	Use search() to list the functions in the library that was loaded. 
 	Here is the output from the installation of devtools	
 	library(devtools)	
 	search()
@@ -113,7 +113,9 @@
 	 [5] "package:graphics"  "package:grDevices"
 	 [7] "package:utils"     "package:datasets" 
 	 [9] "package:methods"   "Autoloads"        
-	[11] "package:base"
+	 [11] "package:base"
+	 
+ * 
 	
 	
 
