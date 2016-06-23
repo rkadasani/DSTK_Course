@@ -11,9 +11,10 @@
 * What is markdown?
 
 		 "Markdown" is two things: (1) a plain text formatting syntax; and (2) a software tool, written in Perl, that converts the plain text formatting to HTML.
-		  [Reference]: http://daringfireball.net/projects/markdown/
+		 [Reference]: http://daringfireball.net/projects/markdown/
 
 ###GIT commands
+
 * Windows: I forgot where I created my repo, how do I find it?
 
 		There is a hidden .git directory
@@ -114,7 +115,7 @@
 		 [9] "package:methods"   "Autoloads"        
 		 [11] "package:base"
 	 
- * 
+  
 	
 	
 
