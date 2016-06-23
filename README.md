@@ -3,10 +3,15 @@
 ##FAQ's
 
 ###General
+
 *What is a good git tutorial?
+
  there are a number of git resources. but the gitimmersion.com provides a pretty good tutorial for deep dive learning
+ 
 *what is markdown?
- **"Markdown" is two things: (1) a plain text formatting syntax; and (2) a software tool, written in Perl, that converts the plain text formatting to HTML.
+
+ "Markdown" is two things: (1) a plain text formatting syntax; and (2) a software tool, written in Perl, that converts the plain text formatting to HTML.
+  [Reference]: http://daringfireball.net/projects/markdown/
 
 ###GIT commands
 *Windows: I forgot where I created my repo, how do I find it?
