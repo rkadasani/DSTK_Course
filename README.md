@@ -6,13 +6,16 @@
 
 * What is a good git tutorial?
 
-		there are a number of git resources. but the gitimmersion.com provides a pretty good tutorial for deep dive learning
+		there are a number of git resources. but the gitimmersion.com provides a pretty good 
+		tutorial for deep dive learning
  
 * What is markdown?
 
-		 "Markdown" is two things: (1) a plain text formatting syntax; and (2) a software tool, written in Perl, that converts the plain text formatting to HTML.
-		 
-	[1]: http://daringfireball.net/projects/markdown/
+		 "Markdown" is two things: (1) a plain text formatting syntax; and (2) a software tool, 
+		 written in Perl, that converts the plain text formatting to HTML.
+
+		 [1]: http://docutils.sourceforge.net/mirror/setext.html
+		 [2]: http://daringfireball.net/projects/markdown/
 
 ###GIT commands
 
