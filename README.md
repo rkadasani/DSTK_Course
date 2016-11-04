@@ -25,6 +25,9 @@
 		On Windows, go to start and type in git
 		Under files you will see the ".git" library
 		Click on it and it should open to your repo location
+		
+		Open gitbash, change your working directory to your git repo location. 
+		You should be able then use the git commands
 	
 * What is the status of my git repository?
 
@@ -34,6 +37,21 @@
 		Initial commit
 		nothing to commit (create/copy files and use "git add" to track)
 		kadasani@SEA-1850016271 MINGW64 /c/My Projects/Coursera/DSTK_Course (master)
+		
+		If you have made changes this command will list the changes as well. For example:
+		On branch master
+		Your branch is up-to-date with 'origin/master'.
+		Changes not staged for commit:
+		(use "git add <file>..." to update what will be committed)
+		(use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   README.md
+
+		Untracked files:
+		(use "git add <file>..." to include in what will be committed)
+
+        docs/.Rhistory
+        docs/03_01_typesOfQuestions.pdf
 		
 * What is in the config files?
 
@@ -45,7 +63,7 @@
 
 		open gitbash, browse to your repo directory
 		$git add <filename>
-		$git commit
+		$git commit -m <message>
 	
 * How do I sync the local repo with the remote repo?
 
@@ -83,7 +101,14 @@
 		Author: rkadasani <reddy.kadasani@gmail.com>
 		Date:   Sun Jun 12 12:37:40 2016 -0700
 		Initial commit
-
+		
+###Getting R, MD, and Git help
+	- http://lmgtfy.com/
+	- stackoverflow
+	- [R Reference Card] (http://cran.us.r-project.org/doc/contrib/Short-refcard.pdf)
+	- [Cross Validated](http://stats.stackexchange.com/)
+	- [MD Reference cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+	- More to come...
 	
 ###Installing R Packages
 
