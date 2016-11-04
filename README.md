@@ -103,12 +103,12 @@
 		Initial commit
 		
 ###Getting R, MD, and Git help
-	- http://lmgtfy.com/
-	- stackoverflow
-	- [R Reference Card] (http://cran.us.r-project.org/doc/contrib/Short-refcard.pdf)
-	- [Cross Validated](http://stats.stackexchange.com/)
-	- [MD Reference cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
-	- More to come...
+	* [Search](http://lmgtfy.com/)
+	* stackoverflow
+	* [R Reference Card](http://cran.us.r-project.org/doc/contrib/Short-refcard.pdf)
+	* [Cross Validated](http://stats.stackexchange.com/)
+	* [MD Reference cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+	* More to come...
 	
 ###Installing R Packages
 
